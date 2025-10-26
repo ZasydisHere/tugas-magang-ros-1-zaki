@@ -1,0 +1,4 @@
+contact_msgs/Contact contact
+---
+bool success
+string message
